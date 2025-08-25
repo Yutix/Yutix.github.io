@@ -2,7 +2,7 @@
 title: "YutixCode"
 description: "Website khusus anak umur dibawah 15 tahun"
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: "https://yutixcode.github.io"
+url: "https://yutix.github.io"
 author: "YutixCode"
 
 # Build settings
