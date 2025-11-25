@@ -1,5 +1,5 @@
 # Site settings
-title: "TextLog"
+title: "YUTIX ARCHIVES"
 description: "Minimalist Jekyll theme for documentation site"
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: "https://yutix.github.io/"
